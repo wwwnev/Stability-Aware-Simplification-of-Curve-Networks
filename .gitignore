@@ -364,7 +364,6 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 CurveNetsPlus.vcxproj
-output/
 deps/
 build/
 out/
