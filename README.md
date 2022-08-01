@@ -10,8 +10,9 @@ We have 4 main dependencies:
 - Spectra 1.0.0 (or above)
 - Polyscope
 
-We assume that Eigen3 is already installed on your system, in a default or preferred location. To get the other 3 dependencies, run the following command: 
+We assume that Eigen3 is already installed on your system, in a default or preferred location. To get the other 3 dependencies, run the following commands from the root of the repository: 
 ```sh
+mkdir deps/
 git submodule update --init --recursive
 ```
 This will download Libigl, Spectra and Polyscope to the `deps/` subdirectory.
