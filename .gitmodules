@@ -1,0 +1,9 @@
+[submodule "deps/polyscope"]
+	path = deps/polyscope
+	url = git@github.com:nmwsharp/polyscope.git
+[submodule "deps/libigl"]
+	path = deps/libigl
+	url = git@github.com:libigl/libigl.git
+[submodule "deps/spectra"]
+	path = deps/spectra
+	url = git@github.com:yixuan/spectra.git
