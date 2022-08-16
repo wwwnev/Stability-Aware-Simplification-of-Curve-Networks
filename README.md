@@ -63,3 +63,15 @@ build/bin/Release/curvenet.exe your_mesh.obj 1_wave.obj 20 0.3
 ```
 
 Logs of the process and results are saved in the `output/greedy/` subdirectory.
+
+## BibTeX
+
+```
+@article{Neveu:2022:curvenetworks,
+author = {William Neveu and Ivan Puhachov and Bernhard Thomaszewski and Mikhail Bessmeltsev},
+title = {Stability-Aware Simplification of Curve Networks},
+journal = {ACM Transactions on Graphics},
+year = {2022},
+doi = {10.1145/3528233.3530711}
+} 
+```
