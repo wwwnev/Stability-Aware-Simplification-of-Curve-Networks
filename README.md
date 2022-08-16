@@ -67,7 +67,7 @@ Logs of the process and results are saved in the `output/greedy/` subdirectory.
 ## BibTeX
 
 ```
-@inproceedings{10.1145/3528233.3530711,
+@inproceedings{Neveu:2022:curvenetworks,
 author = {Neveu, William and Puhachov, Ivan and Thomaszewski, Bernhard and Bessmeltsev, Mikhail},
 title = {Stability-Aware Simplification of Curve Networks},
 year = {2022},
@@ -75,5 +75,6 @@ publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
 booktitle = {ACM SIGGRAPH 2022 Conference Proceedings},
 articleno = {20}
+doi = {10.1145/3528233.3530711}
 } 
 ```
