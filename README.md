@@ -75,6 +75,5 @@ publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
 booktitle = {ACM SIGGRAPH 2022 Conference Proceedings},
 articleno = {20}
-}
 } 
 ```
